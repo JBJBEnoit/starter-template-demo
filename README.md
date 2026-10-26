@@ -1,4 +1,4 @@
-# Student Project Starter Template
+# Frontend Project Starter Template
 
 A starter template for building, testing, and deploying web projects using Vite, Cypress, GitHub Actions, and GitHub Pages.
 
@@ -446,7 +446,7 @@ Push your changes and verify that:
 
 ### Step 7: Make it reusable
 
-Once the pipeline works, document the configuration that students need to customize:
+Once the pipeline works, document the configuration that developers using the template need to customize:
 
 - Project name and page title.
 - Vite base path.
@@ -454,7 +454,7 @@ Once the pipeline works, document the configuration that students need to custom
 - Cypress tests and selectors.
 - Any framework-specific configuration.
 
-Keep the starter project small and understandable. A template is most useful when students can trace how the pieces work together rather than treating the automation as a black box.
+Keep the starter project small and understandable. A template is most useful when developers can trace how the pieces work together rather than treating the automation as a black box.
 
 ---
 
